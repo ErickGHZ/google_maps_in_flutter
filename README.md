@@ -1,6 +1,4 @@
-# google_maps_in_flutter
-
-A new Flutter project.
+# Aplicacion para visualizar un mapa
 
 ## Getting Started
 
